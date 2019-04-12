@@ -1,0 +1,6 @@
+com\opentrace\issuers\driver\MongoClientDriver.class
+com\opentrace\issuers\controller\IssuerProxyRestController.class
+com\opentrace\issuers\model\IssuerModel.class
+com\opentrace\issuers\repository\IssuerRepo.class
+com\opentrace\issuers\dto\AcquirerCardPayRequest.class
+com\opentrace\issuers\IssuerProxyService.class
